@@ -125,6 +125,7 @@
 
 ## <img src="./imgs/icon/organizer.png" width="25" /> 组织者
 感谢以下同学对本项目进行组织与指导
+
 <a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> 
 <a href="https://github.com/kokolerk"><img src="./imgs/profile/JiaQi_Wang.png"  width="80" /></a> 
 <a href="http://xcfeng.net/">  <img src="./imgs/profile/XiaChong_Feng.png"  width="80" /></a> 
